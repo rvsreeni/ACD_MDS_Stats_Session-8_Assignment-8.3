@@ -1,0 +1,5 @@
+Z = X - Mean(mu) /SD (sigma)
+Z = (1100 - 1026) / 209
+Z = 0.35
+Percentage = 73.78% (approx 74%)
+I did better than 74% of SAT test takers
